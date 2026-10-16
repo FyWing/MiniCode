@@ -1,0 +1,6 @@
+[submodule "py-src"]
+	path = py-src
+	url = https://github.com/FyWing/MiniCode.git
+[submodule "external/MiniCode-rs"]
+	path = external/MiniCode-rs
+	url = https://github.com/harkerhand/MiniCode-rs.git
